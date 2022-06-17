@@ -54,7 +54,7 @@ const Hero = ({
 							className="mt-0 mb-16 reveal-from-bottom"
 							data-reveal-delay="200"
 						>
-							Get access to Florida's premier off-road riding
+							Get access to Florida's premier off-road
 							destination,
 							<span className="text-color-primary">
 								{" River Ranch."}
@@ -79,7 +79,7 @@ const Hero = ({
 										tag="a"
 										color="primary"
 										wideMobile
-										href="https://cruip.com/"
+										href="#access-deeds-for-sale"
 									>
 										Access Deeds
 									</Button>

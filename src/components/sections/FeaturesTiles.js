@@ -45,7 +45,7 @@ const FeaturesTiles = ({
 	const sectionHeader = {
 		title: "Bring a guest!",
 		paragraph:
-			"A guest pass is $135 a year + $10 for their guest card. This can be used for any guest you invite throughout the year. A guest pass can be used for a single person or married couple, with children under the age of 16 if they are riding in one vehicle. Married couples will need to have the same address on their Driver's License or present their Marriage License. Guests have to be accompanied by RRPOA members when entering or signing out of River Ranch."
+			"A guest pass is $135 a year + $10 for their guest card. This can be used for any guest you invite throughout the year. A guest pass can be used for a single person or married couple, with children under the age of 16 if they are riding in one vehicle. Married couples will need to have the same address on their Driver's License or present their Marriage License. Guests have to be accompanied by RRPOA members when entering or signing out of River Ranch. Subject to 'No Guests' weekends."
 	};
 
 	return (
@@ -135,10 +135,14 @@ const FeaturesTiles = ({
 										Family Friendly
 									</h4>
 									<p className="m-0 text-sm">
-										Bring your family and spend a day of
-										riding through Florida's pristine
-										landscape and enjoy what makes Florida
-										the best place to live!
+										Membership is open to spouses and
+										children (under the age of 21 years old)
+										of property owners. All children under
+										the age of 16 must be accompanied by
+										property owner. Bring your family and
+										spend a day of riding through Florida's
+										pristine landscape and enjoy what makes
+										Florida the best place to live!
 									</p>
 								</div>
 							</div>
@@ -161,8 +165,10 @@ const FeaturesTiles = ({
 										RV Campers/Toy Haulers
 									</h4>
 									<p className="m-0 text-sm">
-										Temp camp. Gas, solar and wind powered
-										generators allowed.
+										Temporary camp is a designated area to
+										park your RV and camp overnight. Gas,
+										solar and wind powered generators
+										allowed.
 									</p>
 								</div>
 							</div>
@@ -184,9 +190,13 @@ const FeaturesTiles = ({
 									</div>
 								</div>
 								<div className="features-tiles-item-content">
-									<h4 className="mt-0 mb-8">Camping</h4>
+									<h4 className="mt-0 mb-8">Fees</h4>
 									<p className="m-0 text-sm">
-										Temp camp and primitive camping.
+										Annual Membership fee - $155 <br />
+										Guest pass(optional) - $135 <br />
+										All fees are paid to the front office,
+										located at 18550 County Road 630, Lake
+										Wales, FL 33898
 									</p>
 								</div>
 							</div>

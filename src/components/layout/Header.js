@@ -117,21 +117,27 @@ const Header = ({
 										)}
 									>
 										<li>
-											<Link to="#0" onClick={closeMenu}>
-												Documentation
-											</Link>
+											<a
+												href={`mailto:${"muddydeeds1@gmail.com"}`}
+												rel="noopener noreferrer"
+												onClick={closeMenu}
+											>
+												Contact Muddy Deeds
+											</a>
 										</li>
 									</ul>
 									{!hideSignin && (
 										<ul className="list-reset header-nav-right">
 											<li>
-												<Link
-													to="#0"
+												<a
+													href="https://rrpoa.net/"
+													target={"_blank"}
+													rel="noopener noreferrer"
 													className="button button-primary button-wide-mobile button-sm"
 													onClick={closeMenu}
 												>
-													Sign up
-												</Link>
+													RRPOA Official Website
+												</a>
 											</li>
 										</ul>
 									)}

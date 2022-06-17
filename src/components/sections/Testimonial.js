@@ -60,9 +60,11 @@ const Testimonial = ({
 							<div className="tiles-item-inner">
 								<div className="testimonial-item-content">
 									<p className="text-sm mb-0">
-										— I love riding at River Ranch! There is
-										so much land to ride on that you won't
-										see the same place twice!
+										— Muddy Deeds made buying a River Ranch
+										access deed so easy! After buying the
+										family side-by-side, we needed somewhere
+										to ride. River Ranch is the perfect
+										place. Thanks Muddy Deeds!
 									</p>
 								</div>
 								<div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">

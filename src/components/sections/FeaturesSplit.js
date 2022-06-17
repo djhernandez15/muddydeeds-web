@@ -64,7 +64,7 @@ const FeaturesSplit = ({
 						data={sectionHeader}
 						className="center-content"
 					/>
-					<div className={splitClasses}>
+					<div className={splitClasses} id="access-deeds-for-sale">
 						<div className="split-item">
 							<div
 								className="split-item-content center-content-mobile reveal-from-left"
@@ -73,7 +73,9 @@ const FeaturesSplit = ({
 								<div className="text-xxs text-color-primary fw-600 tt-u mb-8">
 									0.31 acre Lot
 								</div>
-								<h3 className="mt-0 mb-12">Access Deed</h3>
+								<h3 className="mt-0 mb-12">
+									Access Deed - $899
+								</h3>
 								<p className="mt-0 mb-24">
 									Grants eligibility to become a member of the
 									River Ranch Property Owners Association. You
